@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sn_sm_finance_sf_request" label="Finance Request Flow " max_length="40" name="x_novrp_xpend_fina_finance_request_flow" type="collection"/>
+</database>

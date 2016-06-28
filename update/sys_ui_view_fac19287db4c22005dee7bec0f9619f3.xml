@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-temp5a24f1b96f021e00fbdd82eeae3ee4ccsidharth.b</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>sidharth.b</sys_created_by>
+        <sys_created_on>2016-06-21 04:10:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fac19287db4c22005dee7bec0f9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Novartis Finance">fcd9cec3db4c22005dee7bec0f96191e</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>sidharth.b</sys_updated_by>
+        <sys_updated_on>2016-06-21 04:10:17</sys_updated_on>
+        <title>Rpt-temp5a24f1b96f021e00fbdd82eeae3ee4ccsidharth.b</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
